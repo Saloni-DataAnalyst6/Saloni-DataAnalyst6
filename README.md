@@ -17,6 +17,7 @@
 ## 📊 Featured Projects
 
 🔹 [Financial Performance Dashboard – Power BI](https://github.com/Saloni-DataAnalyst6/Financial-Performance-Analysis-PowerBI)
+🔹 [Spotify-Global-Streaming-Analysis - PowerBI](https://github.com/Saloni-DataAnalyst6/Spotify-Global-Streaming-Analysis-PowerBI)
 
 More projects coming soon...
 
