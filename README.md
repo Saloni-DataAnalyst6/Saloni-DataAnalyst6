@@ -25,5 +25,5 @@ More projects coming soon...
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/saloni-gupta-51096a1bb 
+- LinkedIn: www.linkedin.com/in/saloni-gupta-dataanalyst6 
 - Email: (guptasaloni269@gmail.com)
